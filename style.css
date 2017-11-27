@@ -1,1 +1,62 @@
+.tab1 p{
+  margin:0;
+}
 
+.tab1 h3{
+  text-transform: uppercase;
+  margin:0;
+  padding: 0;
+  color:#2B8BE5;
+}
+.tab{
+  margin-top:20px;
+  margin-left:20px;
+  float:left;
+}
+.tab1 td{
+  vertical-align: top;
+  padding-left:20px;
+  padding-top:15px;
+  max-width:200px;
+}
+
+body div{
+  border:solid red 3px;
+}
+progress{
+  background-color: lightblue;
+  border-radius:8%;
+  width:179px;
+  height:10px;
+  margin-left:20px;
+}
+progress::-webkit-progress-bar {
+  background-color: darkblue;
+  border-radius:8%;
+  width:220px;
+  height:10px;
+}
+progress::-webkit-progress-value {
+  background-color: teal;
+  border-radius:8%;
+  width:220px;
+  height:10px;
+}
+#derp{
+  margin-left:200px;
+}
+#pos progress{
+  margin-left:52px;
+}
+.skill h2,h5{
+  color:#2B8BE5;
+}
+.tab1{
+  display: inline-block;
+  margin-left:100px;
+}
+.skill{
+  display: inline-block;
+  vertical-align: top;
+  margin-left:500px;
+}
