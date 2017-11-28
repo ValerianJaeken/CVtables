@@ -65,7 +65,20 @@ i{
 }
 body ul{
   margin-top: 1px;
-  margin-left:-25px;
+  margin-left:-37px;
+  list-style-type: none;
+}
+.kek{
+  margin-right:5px;
+}
+.kek2{
+  margin-right:2px;
+}
+.kek3{
+
+}
+.kek4{
+
 }
 
 .resume p{
@@ -79,6 +92,7 @@ body ul{
 .gauche b{
   font-size:12px;
 }
+
 /*===================================================
 I DONT UNDERSTAND ANYTHING ABOUT THIS I'M GIVING IT UP
 .work{
