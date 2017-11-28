@@ -1,34 +1,9 @@
-.tab1 p{
-  margin:0;
-}
-
-.tab1 h3{
-  text-transform: uppercase;
-  margin:0;
-  padding: 0;
-  color:#2B8BE5;
-}
-.tab{
-  margin-top:20px;
-  margin-left:20px;
-  float:left;
-}
-.tab1 td{
-  vertical-align: top;
-  padding-left:20px;
-  padding-top:15px;
-  max-width:200px;
-}
-
-body div{
-  border:solid red 3px;
-}
 progress{
   background-color: lightblue;
   border-radius:8%;
   width:179px;
   height:10px;
-  margin-left:20px;
+  margin-left:50px;
 }
 progress::-webkit-progress-bar {
   background-color: darkblue;
@@ -43,20 +18,91 @@ progress::-webkit-progress-value {
   height:10px;
 }
 #derp{
-  margin-left:200px;
+  margin-left:60px;
 }
-#pos progress{
-  margin-left:52px;
-}
-.skill h2,h5{
+body h5,h3,h2,h1{
   color:#2B8BE5;
 }
-.tab1{
-  display: inline-block;
-  margin-left:100px;
+body h1,h4{
+  text-transform:uppercase;
+  margin:0;
+  padding: 0;
 }
-.skill{
-  display: inline-block;
-  vertical-align: top;
-  margin-left:500px;
+body h1{
+  font-size:40px;
+  font-family: sans-serif;
 }
+.gauche h3, strong{
+  padding:0;
+  margin:0;
+  margin-top:86px;
+  margin-right:15px;
+}
+.gauche p{
+  width:60%;
+}
+
+.gauche table{
+  margin-left: 60px;
+}
+.resume{
+  color:white;
+  background-color:#2B8BE5;
+  width:80px;
+  height:80px;
+  margin-left: 30px;
+
+}
+span{
+  margin-left:30px;
+}
+i{
+  color:#2B8BE5;
+}
+.droite table{
+  margin-bottom:150px;
+
+}
+body ul{
+  margin-top: 1px;
+  margin-left:-25px;
+}
+
+.resume p{
+  padding-top:60px;
+  text-align:center;
+}
+
+.progreff progress{
+  margin-left:-79px;
+}
+.gauche b{
+  font-size:12px;
+}
+/*===================================================
+I DONT UNDERSTAND ANYTHING ABOUT THIS I'M GIVING IT UP
+.work{
+  right: -25px;
+  transform: rotate(-60deg);
+  position: relative;
+  display: block;
+  background-color:rgba(38,142,203,.7);
+  height: 100px;
+  text-align: center;
+  color:white;
+  font-size:25px;
+}
+.play{
+  left:-25px;
+  padding-top: 65px;
+  transform: rotate(-60deg);
+  position: relative;
+  display: block;
+  background-color:rgba(38,142,203,.7);
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  color:white;
+  font-size:25px;
+}
+*/
